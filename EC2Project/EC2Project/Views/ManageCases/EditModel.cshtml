@@ -1,0 +1,89 @@
+﻿@model EC2Project.Models.CaseModel
+@using EC2Project.Models;
+
+@{
+    ViewData["Title"] = "EditModel";
+}
+
+<style>
+    .center 
+    {
+        margin: auto;
+        font-size: medium;
+        width: 20%;
+        padding: 10px;
+    }
+
+    input[type=text], select 
+    {
+        width: 100%;
+        padding: 6px 10px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+    }
+
+    input[type=submit] 
+    {
+        width: 100%;
+        background-color: #4CAF50;
+        color: white;
+        padding: 7px 10px;
+        margin: 8px 0;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+
+    input[type=submit]:hover 
+    {
+            background-color: #45a049;
+    }
+
+    div 
+    {
+        border-radius: 5px;
+        background-color: #f2f2f2;
+        padding: 5px;
+    }
+</style>
+<form asp-action="EditModel" method="post">
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <div>
+        <p>
+            <input asp-for="ID" name="ID" hidden="hidden" value="@Model.ID">
+        </p>
+    </div>
+    <div>
+        <div>
+            <label asp-for="CaseNumber"></label>
+            <input asp-for="CaseNumber" value="@Model.CaseNumber" />
+            @Html.ValidationMessage("CaseNumber", "Field is required.", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div>
+        <label asp-for="PatientId"></label>
+        <select asp-for="PatientId" asp-items="@Html.GetEnumSelectList<PatientDetail>()"></select>
+    </div>
+    <div>
+        <label asp-for="HealthCenterId"></label>
+        <select asp-for="HealthCenterId" asp-items="@Html.GetEnumSelectList<HealthCenterDetail>()"></select>
+    </div>
+    <div>
+        <label asp-for="ConsulatedBy"></label>
+        <select asp-for="ConsulatedBy" asp-items="@Html.GetEnumSelectList<DoctorDetail>()"></select>
+    </div>
+    <div>
+        <label asp-for="Fee"></label>
+        <input asp-for="Fee" value="@Model.Fee" />
+        @Html.ValidationMessage("Fee", "Field is required.", new { @class = "text-danger" })
+    </div>
+    <div>
+        <input type="submit" value="Save" />
+    </div>
+</form>
+<div>
+    <a asp-action="GetModel">Patient-Card</a>
+</div>
