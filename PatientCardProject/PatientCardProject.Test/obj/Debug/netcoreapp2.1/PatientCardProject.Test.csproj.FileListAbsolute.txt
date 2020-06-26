@@ -1,0 +1,17 @@
+C:\Users\Keval_Kiniyara\source\repos\ASP.NET\PatientCardProject\PatientCardProject.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Keval_Kiniyara\source\repos\ASP.NET\PatientCardProject\PatientCardProject.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Keval_Kiniyara\source\repos\ASP.NET\PatientCardProject\PatientCardProject.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Keval_Kiniyara\source\repos\ASP.NET\PatientCardProject\PatientCardProject.Test\bin\Debug\netcoreapp2.1\PatientCardProject.Test.deps.json
+C:\Users\Keval_Kiniyara\source\repos\ASP.NET\PatientCardProject\PatientCardProject.Test\bin\Debug\netcoreapp2.1\PatientCardProject.Test.runtimeconfig.json
+C:\Users\Keval_Kiniyara\source\repos\ASP.NET\PatientCardProject\PatientCardProject.Test\bin\Debug\netcoreapp2.1\PatientCardProject.Test.runtimeconfig.dev.json
+C:\Users\Keval_Kiniyara\source\repos\ASP.NET\PatientCardProject\PatientCardProject.Test\bin\Debug\netcoreapp2.1\PatientCardProject.Test.dll
+C:\Users\Keval_Kiniyara\source\repos\ASP.NET\PatientCardProject\PatientCardProject.Test\bin\Debug\netcoreapp2.1\PatientCardProject.dll
+C:\Users\Keval_Kiniyara\source\repos\ASP.NET\PatientCardProject\PatientCardProject.Test\bin\Debug\netcoreapp2.1\PatientCardProject.pdb
+C:\Users\Keval_Kiniyara\source\repos\ASP.NET\PatientCardProject\PatientCardProject.Test\obj\Debug\netcoreapp2.1\PatientCardProject.Test.csprojAssemblyReference.cache
+C:\Users\Keval_Kiniyara\source\repos\ASP.NET\PatientCardProject\PatientCardProject.Test\obj\Debug\netcoreapp2.1\PatientCardProject.Test.csproj.CoreCompileInputs.cache
+C:\Users\Keval_Kiniyara\source\repos\ASP.NET\PatientCardProject\PatientCardProject.Test\obj\Debug\netcoreapp2.1\PatientCardProject.Test.AssemblyInfoInputs.cache
+C:\Users\Keval_Kiniyara\source\repos\ASP.NET\PatientCardProject\PatientCardProject.Test\obj\Debug\netcoreapp2.1\PatientCardProject.Test.AssemblyInfo.cs
+C:\Users\Keval_Kiniyara\source\repos\ASP.NET\PatientCardProject\PatientCardProject.Test\obj\Debug\netcoreapp2.1\PatientCardProject.Test.csproj.CopyComplete
+C:\Users\Keval_Kiniyara\source\repos\ASP.NET\PatientCardProject\PatientCardProject.Test\bin\Debug\netcoreapp2.1\PatientCardProject.Test.pdb
+C:\Users\Keval_Kiniyara\source\repos\ASP.NET\PatientCardProject\PatientCardProject.Test\obj\Debug\netcoreapp2.1\PatientCardProject.Test.dll
+C:\Users\Keval_Kiniyara\source\repos\ASP.NET\PatientCardProject\PatientCardProject.Test\obj\Debug\netcoreapp2.1\PatientCardProject.Test.pdb

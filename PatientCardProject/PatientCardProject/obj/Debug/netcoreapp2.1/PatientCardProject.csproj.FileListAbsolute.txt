@@ -1,0 +1,14 @@
+C:\Users\Keval_Kiniyara\source\repos\ASP.NET\PatientCardProject\PatientCardProject\obj\Debug\netcoreapp2.1\PatientCardProject.csproj.CoreCompileInputs.cache
+C:\Users\Keval_Kiniyara\source\repos\ASP.NET\PatientCardProject\PatientCardProject\obj\Debug\netcoreapp2.1\PatientCardProject.RazorAssemblyInfo.cache
+C:\Users\Keval_Kiniyara\source\repos\ASP.NET\PatientCardProject\PatientCardProject\obj\Debug\netcoreapp2.1\PatientCardProject.RazorAssemblyInfo.cs
+C:\Users\Keval_Kiniyara\source\repos\ASP.NET\PatientCardProject\PatientCardProject\obj\Debug\netcoreapp2.1\PatientCardProject.AssemblyInfoInputs.cache
+C:\Users\Keval_Kiniyara\source\repos\ASP.NET\PatientCardProject\PatientCardProject\obj\Debug\netcoreapp2.1\PatientCardProject.AssemblyInfo.cs
+C:\Users\Keval_Kiniyara\source\repos\ASP.NET\PatientCardProject\PatientCardProject\bin\Debug\netcoreapp2.1\PatientCardProject.deps.json
+C:\Users\Keval_Kiniyara\source\repos\ASP.NET\PatientCardProject\PatientCardProject\bin\Debug\netcoreapp2.1\PatientCardProject.runtimeconfig.json
+C:\Users\Keval_Kiniyara\source\repos\ASP.NET\PatientCardProject\PatientCardProject\bin\Debug\netcoreapp2.1\PatientCardProject.runtimeconfig.dev.json
+C:\Users\Keval_Kiniyara\source\repos\ASP.NET\PatientCardProject\PatientCardProject\bin\Debug\netcoreapp2.1\PatientCardProject.dll
+C:\Users\Keval_Kiniyara\source\repos\ASP.NET\PatientCardProject\PatientCardProject\bin\Debug\netcoreapp2.1\PatientCardProject.pdb
+C:\Users\Keval_Kiniyara\source\repos\ASP.NET\PatientCardProject\PatientCardProject\obj\Debug\netcoreapp2.1\PatientCardProject.csprojAssemblyReference.cache
+C:\Users\Keval_Kiniyara\source\repos\ASP.NET\PatientCardProject\PatientCardProject\obj\Debug\netcoreapp2.1\PatientCardProject.RazorTargetAssemblyInfo.cache
+C:\Users\Keval_Kiniyara\source\repos\ASP.NET\PatientCardProject\PatientCardProject\obj\Debug\netcoreapp2.1\PatientCardProject.dll
+C:\Users\Keval_Kiniyara\source\repos\ASP.NET\PatientCardProject\PatientCardProject\obj\Debug\netcoreapp2.1\PatientCardProject.pdb
